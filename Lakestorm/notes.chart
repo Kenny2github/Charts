@@ -1,0 +1,23 @@
+[Song]
+{
+  Name = "Lakestorm"
+  Artist = "Michael J Glasgow"
+  Charter = "Kenny2minecraft"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "rock"
+  MediaType = "cd"
+  MusicStream = "song.ogg"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 60000
+}
+[Events]
+{
+}
