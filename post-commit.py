@@ -14,7 +14,11 @@ conts = """<html>
 			color: white;
 			font-family: monospace;
 		}
+		table {
+			width: 100%;
+		}
 	</style>
+	<link rel="shortcut icon" href="/index/favicon.ico" type="image/x-icon"/>
 </head>
 <body>
 	<h1>Kenny2minecraft's Charts</h1>
@@ -37,4 +41,5 @@ os.system('git checkout gh-pages>nul')
 with open('index.html', 'w') as f:
 	f.write(conts)
 os.system('git commit -am "Update charts page">nul')
+os.system('git push origin gh-pages>nul')
 os.system('git checkout master>nul')
