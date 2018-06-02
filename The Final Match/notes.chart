@@ -10,7 +10,7 @@
   Difficulty = 0
   PreviewStart = 0
   PreviewEnd = 0
-  Genre = "electronic"
+  Genre = "Electronic"
   MediaType = "cd"
   MusicStream = "song.ogg"
 }
