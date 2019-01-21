@@ -1,4 +1,4 @@
-[Song]
+﻿[Song]
 {
   Name = "Bitshift Variations in C Minor"
   Artist = "Robert Miles"
@@ -27,6 +27,7 @@
   0 = E "section echo"
   36864 = E "section gcc"
   110592 = E "section ./a.out"
+  184320 = E "section aplay"
 }
 [ExpertSingle]
 {
