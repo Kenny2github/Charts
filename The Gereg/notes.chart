@@ -1,0 +1,58 @@
+﻿[Song]
+{
+  Name = "The Gereg"
+  Artist = "The Hu"
+  Charter = "Kenny2minecraft"
+  Album = "The Gereg"
+  Year = ", 2019"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "Rock"
+  MediaType = "cd"
+  MusicStream = "song.mp3"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 400000
+  192 = TS 4
+  192 = B 116000
+}
+[Events]
+{
+  192 = E "section Intro A"
+  6336 = E "section Intro B"
+  12480 = E "section Intro C"
+  18624 = E "section Buildup"
+  21696 = E "section Verse 1A"
+  24768 = E "section Verse 1B"
+  27840 = E "section Verse 1C"
+  30912 = E "section Verse 1D"
+  33984 = E "section Chorus 1A"
+  37056 = E "section Chorus 1B"
+  40128 = E "section Chorus 1C"
+  43200 = E "section Chorus 1D"
+  46272 = E "section Extra Measures"
+  48576 = E "section Verse 2A"
+  51648 = E "section Verse 2B"
+  54720 = E "section Verse 2C"
+  57792 = E "section Verse 2D"
+  60864 = E "section Chorus 2A"
+  63936 = E "section Chorus 2B"
+  67008 = E "section Chorus 2C"
+  70080 = E "section Chorus 2D"
+  73152 = E "section Interlude A"
+  75456 = E "section Interlude B"
+  78528 = E "section Solo A"
+  81600 = E "section Solo B"
+  84672 = E "section Chorus 3A"
+  87744 = E "section Chorus 3B"
+  90816 = E "section Chorus 3C"
+  93888 = E "section Chorus 3D"
+  96960 = E "section Outro A"
+  102336 = E "section Outro B"
+}
