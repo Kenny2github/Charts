@@ -1,0 +1,35 @@
+﻿[Song]
+{
+  Name = "Song of Women"
+  Artist = "The Hu"
+  Charter = "Kenny2minecraft"
+  Album = "The Gereg"
+  Year = ", 2019"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "Rock"
+  MediaType = "cd"
+  MusicStream = "song.mp3"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 120000
+  11520 = B 184000
+  12288 = TS 3
+  12288 = B 162000
+}
+[Events]
+{
+  0 = E "section Fade In"
+  12288 = E "section Intro A"
+  21504 = E "section Intro B"
+  30720 = E "section Extra Measures"
+  33024 = E "section Verse 1A"
+  37632 = E "section Verse 1B"
+  42240 = E "section Verse 1C"
+}
