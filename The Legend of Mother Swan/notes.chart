@@ -1,0 +1,118 @@
+﻿[Song]
+{
+  Name = "The Legend of Mother Swan"
+  Artist = "The Hu"
+  Charter = "Kenny2minecraft"
+  Album = "The Gereg"
+  Year = ", 2019"
+  Offset = 0
+  Resolution = 192
+  Player2 = bass
+  Difficulty = 0
+  PreviewStart = 0
+  PreviewEnd = 0
+  Genre = "Rock"
+  MediaType = "cd"
+  MusicStream = "song.mp3"
+}
+[SyncTrack]
+{
+  0 = TS 4
+  0 = B 163000
+  1536 = B 112000
+  2304 = TS 2
+  2304 = B 163000
+  2688 = TS 4
+  2688 = B 167000
+}
+[Events]
+{
+  0 = E "section Start"
+  2688 = E "section Intro A"
+  8832 = E "section Intro B"
+  14976 = E "section Intro C"
+  21120 = E "section Verse 1A"
+  24192 = E "section Verse 1B"
+  27264 = E "section Verse 1C"
+  30336 = E "section Verse 1D"
+  33408 = E "section Verse 1E"
+  36480 = E "section Verse 1F"
+  39552 = E "section Verse 1G"
+  42624 = E "section Verse 1H"
+  45696 = E "section Ee ii ee 1"
+  48768 = E "section Verse 2A"
+  51840 = E "section Verse 2B"
+  54912 = E "section Verse 2C"
+  57984 = E "section Verse 2D"
+  61056 = E "section Verse 2E"
+  64128 = E "section Verse 2F"
+  67200 = E "section Verse 2G"
+  70272 = E "section Verse 2H"
+  73344 = E "section Ee ii ee 2"
+  76416 = E "section Solo 1A"
+  82560 = E "section Solo 1B"
+  88704 = E "section Solo 1C"
+  94848 = E "section Solo 1D"
+  100992 = E "section Solo 1E"
+  104064 = E "section Verse 3A"
+  107136 = E "section Verse 3B"
+  110208 = E "section Verse 3C"
+  113280 = E "section Verse 3D"
+  116352 = E "section Verse 3E"
+  119424 = E "section Verse 3F"
+  122496 = E "section Verse 3G"
+  125568 = E "section Verse 3H"
+  128640 = E "section Ee ii ee 3"
+  131712 = E "section Verse 4A"
+  134784 = E "section Verse 4B"
+  137856 = E "section Verse 4C"
+  140928 = E "section Verse 4D"
+  144000 = E "section Verse 5A"
+  147072 = E "section Verse 5B"
+  150144 = E "section Verse 5C"
+  153216 = E "section Verse 5D"
+  156288 = E "section Default"
+  162432 = E "section Default"
+  168576 = E "section End"
+}
+[ExpertSingle]
+{
+  1536 = N 0 0
+  1584 = N 7 96
+  1728 = N 2 0
+  1776 = N 7 96
+  1920 = N 4 0
+  1968 = N 7 672
+  2688 = N 7 0
+  2880 = N 4 0
+  3072 = N 2 0
+  3264 = N 3 0
+  3456 = N 7 0
+  3648 = N 4 0
+  3840 = N 2 0
+  4032 = N 3 0
+  4224 = N 7 0
+  4416 = N 4 0
+  4608 = N 2 0
+  4800 = N 3 0
+  4992 = N 7 0
+  5184 = N 4 0
+  5376 = N 2 0
+  5568 = N 3 0
+  5760 = N 7 0
+  5952 = N 4 0
+  6144 = N 2 0
+  6336 = N 3 0
+  6528 = N 7 0
+  6720 = N 4 0
+  6912 = N 2 0
+  7104 = N 3 0
+  7296 = N 7 0
+  7488 = N 4 0
+  7680 = N 2 0
+  7872 = N 3 0
+  8064 = N 7 0
+  8256 = N 4 0
+  8448 = N 2 0
+  8640 = N 3 0
+}
